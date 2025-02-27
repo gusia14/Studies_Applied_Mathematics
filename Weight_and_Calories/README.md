@@ -1,0 +1,1 @@
+W tym projekcie, wykorzystując język programowania Julia i równania różniczkowe, opracowałyśmy aplikację obliczającą zapotrzebowanie kaloryczne. To narzędzie pomaga użytkownikom osiągnąć pożądaną wagę w zdrowy sposób.
