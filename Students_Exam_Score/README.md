@@ -1,3 +1,5 @@
+Student Exam Score project
+
 In this report, using descriptive statistics and the R package, we examined how various factors affect students' exam results. The research questions analyzed were:
 
 How does the amount of time spent studying influence the final exam score?
