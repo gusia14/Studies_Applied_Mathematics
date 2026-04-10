@@ -1,0 +1,5 @@
+Space-U sql analysis project
+
+In this project, we focused on data analysis of a space travel company using SQL and Python. We designed and created the entire relational database from scratch and generated realistic synthetic data. The analysis explores customer behavior, profitability of trips, and operational efficiency. Key findings include high customer retention, highly profitable missions, and untapped potential in additional services. The project demonstrates the ability to build a complete data pipeline and extract business insights to support data-driven decision-making.
+
+Polish: W projekcie skupiliśmy się na analizie danych firmy organizującej wyprawy kosmiczne z wykorzystaniem SQL i Pythona. Samodzielnie zaprojektowaliśmy i stworzyliśmy całą relacyjną bazę danych oraz wygenerowaliśmy realistyczne dane. Analiza obejmuje zachowania klientów, rentowność wypraw oraz efektywność operacyjną. Wyniki wskazują m.in. na wysoką lojalność klientów, bardzo dochodowe wyprawy oraz potencjał zwiększenia przychodów z usług dodatkowych. Projekt pokazuje umiejętność budowy pełnego pipeline’u danych oraz wyciągania wniosków biznesowych.
